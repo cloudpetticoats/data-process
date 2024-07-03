@@ -24,4 +24,6 @@
 </configuration>
 ``  
 （5）运行仿真：`sumo -c your_simulation.sumocfg`  
+（6）使用SUMO-GUI检查仿真：`sumo-gui -c your_simulation.sumocfg`  
+
 
